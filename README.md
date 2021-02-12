@@ -1,4 +1,4 @@
-# feat-13319
+# gm13319api
 
 > API for prod13319 PWA 
 
@@ -14,7 +14,7 @@ Getting up and running is as easy as 1, 2, 3.
 2. Install your dependencies
 
     ```
-    cd path/to/feat-13319
+    cd path/to/gm13319api
     npm install
     ```
 
